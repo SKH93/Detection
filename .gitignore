@@ -175,8 +175,18 @@ Thumbs.db
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,visualstudiocode
 
-saved_weights
+hunglc007/Convert/yolov4_tf2_final/checkpoints/
+hunglc007/Convert/yolov4_tf2_final/data/dataset/
+hunglc007/Convert/yolov4_tf2_final/data/checkpoint
+hunglc007/Convert/yolov4_tf2_final/data/yolov4.*
+youchangxin/Convert/YOLOv4_tensorflow2/data/dataset/
+youchangxin/Convert/YOLOv4_tensorflow2/log/
+youchangxin/Convert/YOLOv4_tensorflow2/saved_weights/
+youchangxin/Convert/YOLOv4_tensorflow2/yolov4
 
 
-youchangxin/
-hunglc007/
+
+
+
+
+
